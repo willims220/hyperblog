@@ -1,8 +1,11 @@
 body
 {
 color:#333;    
-text-align: left;
-font-family: "Arial";
+text-align:center;
+font-family: "courier";
+font-size:20px;
+margin: 0px;
+padding:0px;
 }
 #container
 {
