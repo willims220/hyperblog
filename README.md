@@ -15,5 +15,6 @@
  * las personalidades multiples de Freddy
  * creado por iincreible plazi team
  * incluye ejemplos en windos y mac
+ * disponible para todas las edades
  y como amable recordatorio: ** este redme .md es un chiste.**
  
