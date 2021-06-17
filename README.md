@@ -13,6 +13,6 @@
  * el verdadero amor por las buenas practicas 
  * trucos muy locos del profesor 
  * las personalidades multiples de Freddy
-
+ * creado por iincreible plazi team
  y como amable recordatorio: ** este redme .md es un chiste.**
  
